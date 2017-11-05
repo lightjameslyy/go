@@ -1,1 +1,3 @@
 * go
+this is my go repository.
+set GOPATH to this directory.
